@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="BG-Bottom" fill="#2B2E32" sketch:type="MSShapeGroup" x="-627" y="-45" width="1814" height="508"></rect>
+        <g id="Mic" sketch:type="MSArtboardGroup">
+            <g id="icon_mic-border" sketch:type="MSLayerGroup">
+                <rect id="Padding" sketch:type="MSShapeGroup" x="0" y="0" width="40" height="40"></rect>
+                <rect id="Rectangle-361" stroke="#AAB2B9" sketch:type="MSShapeGroup" x="14" y="4" width="13" height="22" rx="40"></rect>
+                <path d="M31.5,17.5 L31.5,20.6893581 C31.5,26.6202707 26.886,30.5324707 20.5,30.5324707 C14.115,30.5324707 9.5,26.6202707 9.5,20.6893581 L9.5,17.5" id="Imported-Layers-2" stroke="#AAB2B9" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M20.506,31 L20.506,36" id="Path" stroke="#AAB2B9" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M13.5,36.5 L27.5,36.5" id="Path" stroke="#AAB2B9" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
