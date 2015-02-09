@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>add_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="add_selected" sketch:type="MSArtboardGroup">
+            <g id="icon_add-user-fill-ON" sketch:type="MSLayerGroup">
+                <rect id="Padding" sketch:type="MSShapeGroup" x="0" y="0" width="40" height="40"></rect>
+                <path d="M20,20 L20,11.5082041 C20,11.2266151 19.7761424,11 19.5,11 C19.2319336,11 19,11.2275307 19,11.5082041 L19,20 L10.5082041,20 C10.2266151,20 10,20.2238576 10,20.5 C10,20.7680664 10.2275307,21 10.5082041,21 L19,21 L19,29.4917959 C19,29.7733849 19.2238576,30 19.5,30 C19.7680664,30 20,29.7724693 20,29.4917959 L20,21 L28.4917959,21 C28.7733849,21 29,20.7761424 29,20.5 C29,20.2319336 28.7724693,20 28.4917959,20 L20,20 Z M19.5,37 C28.6126984,37 36,29.6126984 36,20.5 C36,11.3873016 28.6126984,4 19.5,4 C10.3873016,4 3,11.3873016 3,20.5 C3,29.6126984 10.3873016,37 19.5,37 Z" id="Oval-43" fill="#3BAFDA" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

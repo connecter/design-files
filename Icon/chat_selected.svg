@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>chat_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="chat_selected" sketch:type="MSArtboardGroup">
+            <g id="icon_chat-fill-ON" sketch:type="MSLayerGroup">
+                <rect id="Padding-6" sketch:type="MSShapeGroup" x="0" y="0" width="40" height="40"></rect>
+                <path d="M21,29 L29.001155,29 C32.3112985,29 35,26.3150239 35,23.0029381 L35,12.9970619 C35,9.68662575 32.3142256,7 29.001155,7 L10.998845,7 C7.68870147,7 5,9.68497606 5,12.9970619 L5,23.0029381 C5,26.3133742 7.68577437,29 10.998845,29 L13,29 L13,34.4965773 C13,34.7670975 13.2238576,35 13.5,35 C13.616219,35 13.7256465,34.9576353 13.8123265,34.886983 L13.8125,34.8908081 C13.8125,34.8908081 19.609375,29.7981567 19.9375,29.5481567 C20.265625,29.2981567 20.4693604,29 21,29 Z" id="Rectangle-125" fill="#3BAFDA" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

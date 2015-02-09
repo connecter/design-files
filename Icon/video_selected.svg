@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>video_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="video_selected" sketch:type="MSArtboardGroup">
+            <g id="icon_video-fill-ON" sketch:type="MSLayerGroup">
+                <rect id="Padding" sketch:type="MSShapeGroup" x="0" y="0" width="40" height="40"></rect>
+                <path d="M37,30 L28,23.25 L28,18.75 L37,12 L37,30 Z M3,12.9907951 C3,11.8913093 3.90162726,11 5.00086422,11 L23.9991358,11 C25.1041826,11 26,11.8982124 26,12.9907951 L26,29.0092049 C26,30.1086907 25.0983727,31 23.9991358,31 L5.00086422,31 C3.89581743,31 3,30.1017876 3,29.0092049 L3,12.9907951 Z" id="Path" fill="#3BAFDA" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
