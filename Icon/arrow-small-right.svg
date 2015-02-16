@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="40px" viewBox="0 0 20 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-small-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="arrow-small-right" sketch:type="MSArtboardGroup">
+            <g id="icon_arrow-small-fill" sketch:type="MSLayerGroup">
+                <rect id="Padding-8" sketch:type="MSShapeGroup" x="0" y="0" width="20" height="40"></rect>
+                <path d="M8.25075,13.0011429 C8.46975,13.0011429 8.68875,13.0838701 8.83575,13.2404156 L14.83575,19.6040519 C15.05475,19.8356883 15.05475,20.1665974 14.83575,20.3995065 L8.83575,26.7618701 C8.57625,27.0367792 8.10525,27.0787792 7.78125,26.8611429 C7.45725,26.640961 7.40625,26.2413247 7.66425,25.9664156 L13.28925,20.0011429 L7.66425,14.0358701 C7.40625,13.760961 7.45725,13.3613247 7.78125,13.1411429 C7.92075,13.046961 8.08425,13.0011429 8.25075,13.0011429" id="arrow" fill="#AAB2B9" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
