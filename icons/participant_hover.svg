@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>participant_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="save-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="participant_hover" sketch:type="MSArtboardGroup">
+            <rect id="Padding-6" sketch:type="MSShapeGroup" x="0" y="0" width="40" height="40"></rect>
+            <g id="icon_participants" sketch:type="MSLayerGroup" transform="translate(2.000000, 7.000000)" fill="#FFFFFF">
+                <path d="M33.5,0 L2.5,0 C1.121,0 0,1.121 0,2.5 L0,25.5 C0,26.879 1.121,28 2.5,28 L33.5,28 C34.879,28 36,26.879 36,25.5 L36,2.5 C36,1.121 34.879,0 33.5,0 L33.5,0 Z M7.81,27 C9.025,21.277 12.794,17.875 18,17.875 C23.207,17.875 26.976,21.277 28.19,27 L7.81,27 L7.81,27 Z M35,25.5 C35,26.327 34.327,27 33.5,27 L29.211,27 C27.944,20.655 23.784,16.875 18,16.875 C12.217,16.875 8.057,20.655 6.789,27 L2.5,27 C1.673,27 1,26.327 1,25.5 L1,2.5 C1,1.673 1.673,1 2.5,1 L33.5,1 C34.327,1 35,1.673 35,2.5 L35,25.5 L35,25.5 Z" id="Fill-1" sketch:type="MSShapeGroup"></path>
+                <path d="M18,4.552 C14.914,4.552 12.403,7.106 12.403,10.246 C12.403,13.386 14.914,15.94 18,15.94 C21.087,15.94 23.598,13.386 23.598,10.246 C23.598,7.106 21.087,4.552 18,4.552 L18,4.552 Z M18,14.94 C15.466,14.94 13.403,12.835 13.403,10.246 C13.403,7.657 15.466,5.552 18,5.552 C20.535,5.552 22.598,7.657 22.598,10.246 C22.598,12.835 20.535,14.94 18,14.94 L18,14.94 Z" id="Fill-2" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
